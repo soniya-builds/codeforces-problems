@@ -12,4 +12,29 @@ The goal of this repo is to track my competitive programming progress, practice 
 - 🏁 Purpose: Learning, practice, and consistency in competitive programming
 
 Each solution is written with clarity and efficiency in mind, following standard competitive programming practices.
+🎯 Goals
+
+Improve logic building
+
+Learn algorithms & data structures
+
+Get better at competitive programming
+
+Maintain a personal archive of solved problems
+
+🛠 Languages Used
+
+Python 3
+
+📈 Progress
+
+I regularly update this repository as I solve more problems 🚀
+
+🤝 Contributing
+
+This is a personal learning repository, but suggestions and improvements are always welcome!
+
+⭐ Acknowledgement
+
+Thanks to Codeforces for providing such an amazing platform for competitive programming practice.
 Last update:06.01.26
