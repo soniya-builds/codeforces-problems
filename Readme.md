@@ -37,4 +37,5 @@ This is a personal learning repository, but suggestions and improvements are alw
 ⭐ Acknowledgement
 
 Thanks to Codeforces for providing such an amazing platform for competitive programming practice.
+<br>
 Last update:06.01.26
