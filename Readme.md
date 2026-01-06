@@ -23,6 +23,7 @@ Get better at competitive programming
 Maintain a personal archive of solved problems
 
 🛠 Languages Used
+<br>
 Python 3
 
 📈 Progress
