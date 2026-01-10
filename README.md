@@ -16,7 +16,7 @@ I’m using this repo to practice competitive programming and improve my problem
 ## Languages
 
 - Python
-- - C++
+- C++
 
 ---
 
