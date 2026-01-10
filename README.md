@@ -8,7 +8,7 @@ I’m using this repo to practice competitive programming and improve my problem
 ## What’s inside
 
 - Solutions to different Codeforces problems  
-- Organized by difficulty or contest (depending on mood 😄)  
+- Organized by difficulty or contest (depending on mood )  
 - Written mainly for learning and practice  
 
 ---
