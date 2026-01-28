@@ -14,3 +14,4 @@ if scores[2] - scores[0] >= 10:
     print("check again")
 else:
     print(f"final {scores[1]}")
+#cf 2172A
