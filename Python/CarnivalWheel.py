@@ -13,3 +13,4 @@ for _ in range(t):
         cur = (cur + b) % l
 
     print(ans)
+#CF 2180A
