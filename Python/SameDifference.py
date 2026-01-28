@@ -12,3 +12,4 @@ for _ in range(t):
             operations += 1
 
     print(operations)
+#2166A	Same Difference
