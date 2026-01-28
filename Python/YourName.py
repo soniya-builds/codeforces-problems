@@ -8,3 +8,4 @@ for _ in range(q):
         print("YES")
     else:
         print("NO")
+#CF 2167B
