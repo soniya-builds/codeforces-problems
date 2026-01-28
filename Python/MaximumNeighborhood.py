@@ -11,3 +11,4 @@ for _ in range(t):
         print(4*n*n - n - 4)
     else:
         print(5*n*n - 5*n - 5)
+#CF 2170A
