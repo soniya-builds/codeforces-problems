@@ -10,3 +10,4 @@ for _ in range(t):
             kept.append(x)
 
     print(n - len(kept))
+#2176A	Operations with Inversions
