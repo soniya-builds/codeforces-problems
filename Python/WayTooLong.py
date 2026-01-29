@@ -6,3 +6,6 @@ for _ in range(n):
         print(word[0] + str(len(word) - 2) + word[-1])
     else:
         print(word)
+
+#WayTooLongWords 71A
+
