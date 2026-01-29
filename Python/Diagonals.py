@@ -7,3 +7,4 @@ for _ in range(t):
         print(0)
     else:
         print(min(2 * n - 1, math.ceil(k / n)))
+#1995A	Diagonals
