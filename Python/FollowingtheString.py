@@ -15,3 +15,5 @@ for _ in range(t):
                 break
 
     print("".join(ans))
+    
+    #1927B	Following the String
