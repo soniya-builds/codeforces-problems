@@ -22,3 +22,4 @@ for _ in range(t):
             print(x)
             break
         x += 1
+#CF 2167D - Find the Smallest Coprime x
